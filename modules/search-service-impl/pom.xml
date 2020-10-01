@@ -99,7 +99,7 @@
     </dependency>
     <dependency>
       <groupId>org.jdom</groupId>
-      <artifactId>com.springsource.org.jdom</artifactId>
+      <artifactId>jdom</artifactId>
       <version>2.0.1</version>
     </dependency>
     <dependency>
