@@ -104,7 +104,7 @@
     </dependency>
     <dependency>
       <groupId>org.jdom</groupId>
-      <artifactId>com.springsource.org.jdom</artifactId>
+      <artifactId>jdom</artifactId>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
